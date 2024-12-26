@@ -2,6 +2,8 @@
 
 Este proyecto es un backend construido con **Node.js**, **Express**, y **MongoDB**, que ofrece una API para generar usuarios y mascotas de manera aleatoria para realizar pruebas de carga y desarrollo.
 
+Vínculo a Docker Hub: https://hub.docker.com/repository/docker/linaberrone/proyectolina
+
 ## Tecnologías utilizadas
 
 - **Node.js**: Entorno de ejecución para JavaScript del lado del servidor.
@@ -60,3 +62,4 @@ El servidor se iniciará en el puerto `8080` o el puerto definido en tu entorno.
   "users": <cantidad_de_usuarios>,
   "pets": <cantidad_de_mascotas>
 }
+
